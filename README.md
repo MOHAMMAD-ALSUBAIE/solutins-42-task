@@ -25,7 +25,9 @@ A Request Management System processes multiple types of requests through the app
 
 
 However, the product team wants to collect statistics that are based on the details inside <br> the RequestData column which are currently not possible because of the structure of the table. The new schema is based on the types of the requests and is as shown below:
+
 ![image](https://github.com/MOHAMMAD-ALSUBAIE/solutins-42-task/assets/68867495/eed97461-e1cd-49ce-891b-6fb5123c4c29)
+
 
 <h2>REQUEST DETAILS
 </h2>
